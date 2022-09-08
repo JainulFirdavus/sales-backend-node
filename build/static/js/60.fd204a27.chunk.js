@@ -1,0 +1,2 @@
+(this["webpackJsonpsales-tracker"]=this["webpackJsonpsales-tracker"]||[]).push([[60],{1250:function(s,a,e){"use strict";e.r(a);var t=e(2055);a.default=t.a}}]);
+//# sourceMappingURL=60.fd204a27.chunk.js.map
